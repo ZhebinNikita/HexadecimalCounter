@@ -1,0 +1,6 @@
+D:\Programming\Practice\Course_3\HexadecimalCounter\HexadecimalCounter\bin\Debug\HexadecimalCounter.exe.config
+D:\Programming\Practice\Course_3\HexadecimalCounter\HexadecimalCounter\bin\Debug\HexadecimalCounter.exe
+D:\Programming\Practice\Course_3\HexadecimalCounter\HexadecimalCounter\bin\Debug\HexadecimalCounter.pdb
+D:\Programming\Practice\Course_3\HexadecimalCounter\HexadecimalCounter\obj\Debug\HexadecimalCounter.csprojResolveAssemblyReference.cache
+D:\Programming\Practice\Course_3\HexadecimalCounter\HexadecimalCounter\obj\Debug\HexadecimalCounter.exe
+D:\Programming\Practice\Course_3\HexadecimalCounter\HexadecimalCounter\obj\Debug\HexadecimalCounter.pdb
